@@ -1,0 +1,7 @@
+<h1>STUPID COACHING</h1>
+<p> votre question : <%= @laquestion %>
+<p> votre coach réponse : <%= @answer %></p>
+<br>
+
+<br><br>
+<%= link_to "Ask a new question", ask_path %>

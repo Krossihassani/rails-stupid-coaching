@@ -1,0 +1,7 @@
+<h1>STUPID COACHING</h1>
+<br>
+<form action="/answer" method="get">
+  <label for="Ask"> Ask your coach any question?</label>
+  <input type="text" name="question" placeholder="Ask">
+  <input type="submit" value="Ask">
+</form>
